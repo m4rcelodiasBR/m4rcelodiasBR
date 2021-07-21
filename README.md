@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m4rcelodiasBR
 - 👀 I’m interested in Programming and Learn
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Java
 - 💞️ I’m looking to collaborate on Github and more Development Communities
 - 📫 How to reach me ...
 
